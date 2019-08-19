@@ -1,5 +1,5 @@
 # Mississippi-Tweet-Analysis
-This is a personal project that I just started, examining tweets from politicians in Mississippi and looking for patterns
+This is a personal project examining tweets from politicians in Mississippi and looking for patterns
 
 I am fascinated by Natural Language Processing, but it seems as though I find myself holed up in problems related to 
 numeric classification or regression problems too often. To combat this predictability, I started diving into web scraping using 
